@@ -19,4 +19,5 @@ public class ApplicationBean {
     public InputStream getSvgInputStreamImage() {
         return Faces.getResourceAsStream("/resources/imgs/OmniFaces.svg");
     }
+
 }
