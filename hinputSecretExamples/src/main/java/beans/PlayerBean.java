@@ -10,6 +10,9 @@ public class PlayerBean implements Serializable {
 
     private String password;
 
+    public PlayerBean() {
+    }
+
     public String getPassword() {
         return password;
     }
@@ -17,4 +20,5 @@ public class PlayerBean implements Serializable {
     public void setPassword(String password) {
         this.password = password;
     }
+
 }
