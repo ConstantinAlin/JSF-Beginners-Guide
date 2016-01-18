@@ -17,6 +17,9 @@ public class PlayerBean implements Serializable {
     private String countrycode;
     private String age;
 
+    public PlayerBean() {
+    }
+
     public String getName() {
         return name;
     }
@@ -96,4 +99,5 @@ public class PlayerBean implements Serializable {
         this.email = "";
         return "index";
     }
+
 }
