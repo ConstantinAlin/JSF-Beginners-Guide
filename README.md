@@ -1,2 +1,2 @@
 ### JSF Beginners Guide
-Collection of JSF applications for JSF page authors. More info & resources on [JSF Beginner's Guide] (https://jsf-beginners-guide.zeef.com/constantin.marian.alin) on ZEEF.
+Collection of JSF applications for JSF page authors. More info & resources on <a href="https://jsf-beginners-guide.zeef.com/constantin.marian.alin" target="_blank">JSF Beginner's Guide</a> on ZEEF.
